@@ -34,8 +34,6 @@
 {
     if (self = [super initWithFrame:frame]) {
         
-        //  self.backgroundColor = [UIColor colorWithWhite:0.800 alpha:1.000];
-        
         // 创建主菜单
         [self createMainMenu];
         
